@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Nova GFX Pro - Otimizador de Jogos IA",
+  "description": "Uma suíte avançada de otimização de desempenho que utiliza a IA do Gemini para analisar seu hardware e fornecer o equilíbrio perfeito entre qualidade gráfica e estabilidade de quadros.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
